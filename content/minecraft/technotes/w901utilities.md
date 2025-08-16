@@ -170,6 +170,16 @@ Create map in the game, then convert the image into a map generated in website, 
   href="https://github.com/Godlander/objmc"
 >}}
 
+---
+
+![realitycapture](images/minecraft/util/realitycapture.png)
+
+{{< link-card
+  title="RealityCapture"
+  description="Capture 3D objects using images to convert into Minecraft models"
+  href="https://youtu.be/4qFl4k37dDc?si=tMtw8ch-dFSucbTz"
+>}}
+
 #### Texture Pack
 
 An improvement to blocks texture. An example is Cubed Texture. It a modern themed texture pack. Learn more about [Cubed Texture Pack](https://www.curseforge.com/minecraft/texture-packs/cubed-textures) at CurseForge. Also, leatn more about Cubed Texture pack and building tutorial on my favourite YouTuber [Alphine](https://www.youtube.com/@Alpine1)
