@@ -24,7 +24,7 @@ seo:
 | WorldEdit | Compass | `left click` teleport to crosshair, `right click` pass through wall |
 | Litematica | Stick | `ctrl + scroll` choose type, `alt + scroll` to move schematic |
 | Litematica | `N` | Open Menu |
-| Litematica | `N + P` | Execute (Paste) |
+| Litematica | `N + P` | Execute (Paste) while holding a stick at 5/9 |
 | Litematica | `N + T` | Toggle selection |
 | Axiom | `Right Shift` | Open UI menu |
 | Axiom | `B` | Utilities |
@@ -124,3 +124,22 @@ const stone2 = { 0: "Sandstone", 1: "chiseles", 2: "cut", 3: "smooth" }
 3. Change dirt to stone then add a layer of sand for grass
 
 - Left click holding a compass to teleport and right click to pass through wall
+
+### Curve Building Mod
+
+```md
+# Curve points
+//pos set 1
+//pos set 1b
+//pos set 2
+//pos set 2f
+//pos set 2b
+//bcpos clearall
+
+# Pasting WorldEdit clipboard
+//bc [-options]
+
+-a: Replace only air blocks with the curve
+-x: Read the region in X-direction
+-z: Read the region in Z-direction
+```
