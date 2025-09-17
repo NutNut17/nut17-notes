@@ -5,7 +5,7 @@ summary: ""
 date: 2023-09-07T16:04:48+02:00
 lastmod: 2023-09-07T16:04:48+02:00
 draft: false
-weight: 407
+weight: 302
 toc: true
 seo:
   title: "" # custom title (optional)
@@ -13,9 +13,6 @@ seo:
   canonical: "" # custom canonical URL (optional)
   noindex: false # false (default) or true
 ---
-{{< threejs-cube >}}
-
-Source: https://webcourse.ncue.edu.tw/Java/index.php
 
 ### Basics
 

@@ -342,3 +342,5 @@ scene.add(mesh);
 #### Path Tracing
 
 [This](https://erichlof.github.io/THREE.js-PathTracing-Renderer/) is an amzing real-time PathTracing with global illumination and progressive rendering, all on top of the Three.js WebGL framework.
+
+{{< threejs-cube >}}
