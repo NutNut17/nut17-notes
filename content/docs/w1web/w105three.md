@@ -260,7 +260,7 @@ window.addEventListener('resize', handleResize, false);
 
 Results
 
-<iframe src="/thulite-project/three/index.html" width="100%" height="600" style="border:none;"></iframe>
+<iframe src="/nut17-notes/three/index.html" width="100%" height="600" style="border:none;"></iframe>
 
 #### Geometry
 

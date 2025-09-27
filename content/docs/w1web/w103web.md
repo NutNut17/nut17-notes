@@ -106,7 +106,7 @@ console.log(divide(10, 2)); // Outputs: 5
 {{< link-card
   title="JavaScript"
   description="Click here to understand basics of JavaScript"
-  href="/thulite-project/docs/web/javascript/"
+  href="/nut17-notes/docs/w1web/javascript/"
 >}}
 
 {{< /tab >}}
@@ -135,7 +135,7 @@ A simple and quick developement CSS framework for easy designing by adding prede
 {{< link-card
   title="Responsive Web Design"
   description="Click here to explore more about responsive web design with Bootstrap"
-  href="/thulite-project/docs/web/responsive-web-design/#bootstrap-layoutting"
+  href="/nut17-notes/docs/w1web/responsive-web-design/#bootstrap-layoutting"
 >}}
 
 #### SASS & SCSS
@@ -417,7 +417,7 @@ A optimized and lightweight CSS framework with highly customizable developement 
 {{< link-card
   title="Tailwind CSS"
   description="Click here to explore more about TailwindCSS"
-  href="/thulite-project/docs/web/vue/"
+  href="/nut17-notes/docs/w1web/vue/"
 >}}
 
 #### Purge CSS
@@ -561,13 +561,13 @@ Both are open-source java library for building frontend application, focusing on
 {{< link-card
   title="Vue"
   description="Click here to explore more about Vue"
-  href="/thulite-project/docs/web/vue/"
+  href="/nut17-notes/docs/w1web/vue/"
 >}}
 
 {{< link-card
   title="React"
   description="Click here to explore more about React, Next.js framework and web developement concepts"
-  href="/thulite-project/docs/web/react/"
+  href="/nut17-notes/docs/w1web/react/"
 >}}
 
 #### Hugo (Static)
@@ -688,7 +688,7 @@ A backend web server is used to manage client request (Apache or Ngnix). Visit p
 {{< link-card
   title="Production"
   description="Click here to learn more about hosting platform"
-  href="/thulite-project/docs/web/production/"
+  href="/nut17-notes/docs/w1web/production/"
 >}}
 
 #### Nuxt.js vs Next.js
@@ -805,7 +805,7 @@ Express.js is a minimal web framework for Node.js, designed to simplify building
 {{< link-card
   title="Express.js"
   description="Explore how Express.js works!"
-  href="/thulite-project/docs/web/express.js/"
+  href="/nut17-notes/docs/w1web/express.js/"
 >}}
 
 #### Django

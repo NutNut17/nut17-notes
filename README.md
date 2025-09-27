@@ -3,10 +3,10 @@
   <h2 My personal note on software developement learning </h2>
 
   <p align="center">
-    <a href="https://github.com/NutNut17/thulite-project/stargazers"><img src="https://img.shields.io/github/stars/NutNut17/thulite-project"/></a>
-    <a href="https://github.com/NutNut17/thulite-project/network/members"><img src="https://img.shields.io/github/forks/NutNut17/thulite-project"/></a>
-    <a href="https://github.com/NutNut17/thulite-project/commits/main"><img src="https://img.shields.io/github/last-commit/NutNut17/thulite-project/main"/></a>
-    <a href="https://github.com/NutNut17/thulite-project/blob/main/LICENSE"><img src="https://img.shields.io/github/license/NutNut17/thulite-project"/></a>
+    <a href="https://github.com/NutNut17/nut17-notes/stargazers"><img src="https://img.shields.io/github/stars/NutNut17/nut17-notes"/></a>
+    <a href="https://github.com/NutNut17/nut17-notes/network/members"><img src="https://img.shields.io/github/forks/NutNut17/nut17-notes"/></a>
+    <a href="https://github.com/NutNut17/nut17-notes/commits/main"><img src="https://img.shields.io/github/last-commit/NutNut17/nut17-notes/main"/></a>
+    <a href="https://github.com/NutNut17/nut17-notes/blob/main/LICENSE"><img src="https://img.shields.io/github/license/NutNut17/nut17-notes"/></a>
   </p>
 
 </p>
@@ -17,8 +17,8 @@
 1. Clone the project and move to folder.
 
   ```shell
-  git clone https://github.com/NutNut17/thulite-project.git
-  cd thulite-project
+  git clone https://github.com/NutNut17/nut17-notes.git
+  cd nut17-notes
   ```
 
 2. Install dependencies.
