@@ -113,6 +113,7 @@ Reset reverse the changes by moving a branch to its parent. But it only works on
 
 ```bash
 git reset HEAD~1
+git reset --soft HEAD~1 # Undo previous commit
 git revert HEAD
 ```
 

@@ -19,7 +19,7 @@
 
 [[main]]
   name = "Docs"
-  url = "/docs/web/about-this-site-doks"
+  url = "/docs/w1web/about-this-site-doks"
   weight = 10
 
 [[main]]
