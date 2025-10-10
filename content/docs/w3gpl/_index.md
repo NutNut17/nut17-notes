@@ -1,16 +1,16 @@
 ---
-title: "?"
-description: ""
+title: "General Programming Language"
+description: "Programming Language Notes"
 summary: ""
-date: 2024-10-18T20:27:56+08:00
-lastmod: 2024-10-18T20:27:56+08:00
-weight: 301
+date: 2025-10-09T23:06:50+02:00
+lastmod: 2025-10-09T23:06:50+02:00
 draft: false
+weight: 300
+toc: true
 seo:
   title: "" # custom title (optional)
   description: "" # custom description (recommended)
   canonical: "" # custom canonical URL (optional)
   noindex: false # false (default) or true
 ---
-
-### 
+ 
