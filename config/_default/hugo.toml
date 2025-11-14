@@ -1,6 +1,6 @@
 title = "Nut17"
 baseurl = "http://localhost/"
-canonifyURLs = false
+# canonifyURLs = false
 disableAliases = true
 disableHugoGeneratorInject = true
 # disableKinds = ["taxonomy", "term"]
@@ -8,7 +8,7 @@ enableEmoji = true
 enableGitInfo = false
 enableRobotsTXT = true
 languageCode = "en-US"
-paginate = 10
+# paginate = 10
 rssLimit = 10
 summarylength = 20 # 70 (default)
 
@@ -87,3 +87,6 @@ timeout = "180s"
   hint = "photo"
   quality = 85
   resampleFilter = "Lanczos"
+
+[pagination]
+  pagerSize = 10

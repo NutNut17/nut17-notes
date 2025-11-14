@@ -746,6 +746,15 @@ Library for deep learning in Python. Developed by Google.
 
 Library for machine learning in Python. Developed by Facebook.
 
+```bash
+pip install torch torchvision torchaudio --extra-index-url https://download.pytorch.org/whl/cu121 # Install pytorch GPU version with CUDA 12.1
+
+conda install cudatoolkit # Core Runtime Library
+
+# Official NVIDIA toolkit is a full development suite (compiler, debugger, nvcc)
+# cuDNN GPU-accelerated library of primitives for deep neural networks
+```
+
 #### Keras
 
 Library for deep learning in Python. Developed by Google.

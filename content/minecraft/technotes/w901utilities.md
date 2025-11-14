@@ -154,7 +154,6 @@ Create map in the game, then convert the image into a map generated in website, 
 >}}
 
 ---
----
 
 ![obj2sch](images/minecraft/util/obj2sch.png)
 
@@ -212,6 +211,16 @@ Create map in the game, then convert the image into a map generated in website, 
   title="World Painter"
   description="Create a custom terrain"
   href="https://www.worldpainter.net/"
+>}}
+
+---
+
+![worldpainter](images/minecraft/util/hueblocks.png)
+
+{{< link-card
+  title="HueBlocks"
+  description="Create combination of blocks that matches certain gradient"
+  href="https://1280px.github.io/hueblocks/"
 >}}
 
 #### Minecraft Skin
